@@ -1,4 +1,4 @@
-import logo from './logo.png' // image
+import logo from './logo.png' // image updated
 import searchIcon from './searchIcon.svg'
 import userIcon from './userIcon.svg'
 import calenderIcon from './calenderIcon.svg'
